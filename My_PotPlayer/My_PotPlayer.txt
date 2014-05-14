@@ -1,29 +1,40 @@
-ï»¿
-è¿˜åœ¨ç­‰ä¾¿æºç‰ˆ?ä¸€é”®ä¸‹è½½æ‰“åŒ…å±äºä½ è‡ªå·±çš„PotPlayer_32bit!
 
-bin ç›®å½•: éƒ½æ˜¯å¯æ‰§è¡Œç¨‹åºï¼Œæ¥æºï¼š
+»¹ÔÚµÈ±ãĞ¯°æ?Ò»¼üÏÂÔØ´ò°üÊôÓÚÄã×Ô¼ºµÄPotPlayer_32bit!
+
+
+bin Ä¿Â¼: ¶¼ÊÇ¿ÉÖ´ĞĞ³ÌĞò£¬À´Ô´£º
 7-Zip 9.32 alpha:
 http://sourceforge.net/p/sevenzip/discussion/45797/thread/49e6a4d4/
 http://dl.7-zip.org/7z932.exe
 wget-1.15-win32:
 http://eternallybored.org/misc/wget/wget.exe
+pev-0.40:
+http://sourceforge.net/projects/pev/files/pev-0.40/pev-0.40_x86.exe/download
 
-custom ç›®å½•: è‡ªå®šä¹‰çš„PotPlayeræ–‡ä»¶ï¼Œæ³¨æ„ä¿æŒç›®å½•ç»“æ„ï¼Œä¾‹å¦‚ï¼š
-Module\MediaInfo.dll # æ±‰åŒ–ç‰ˆ
-Skins\YouTube_TitleBar_Slim_ha2.dsf # çš®è‚¤
-PotIcons.dll # è‡ªå®šä¹‰å›¾æ ‡
-PotPlayerMini.ini # ä¾¿æºç‰ˆé…ç½®æ–‡ä»¶
-...
 
-unneeded-files.txt # åˆ é™¤çš„æ–‡ä»¶åˆ—è¡¨ï¼Œå¯è‡ªå®šä¹‰
-unneeded-folders.txt # åˆ é™¤çš„æ–‡ä»¶å¤¹åˆ—è¡¨ï¼Œå¯è‡ªå®šä¹‰
+unneeded-files.txt # É¾³ıµÄÎÄ¼şÁĞ±í£¬¿É×Ô¶¨Òå
+unneeded-folders.txt # É¾³ıµÄÎÄ¼ş¼ĞÁĞ±í£¬¿É×Ô¶¨Òå
 
-My_PotPlayer.bat åŒå‡»è¿è¡Œ
 
-è„šæœ¬ç»“æŸåï¼Œç›®å½•ä¸‹ My_PotPlayer.zip å°±æ˜¯ä¾¿æºç‰ˆã€‚
+custom Ä¿Â¼: ×Ô¶¨ÒåµÄPotPlayerÎÄ¼ş£¬×¢Òâ±£³ÖÄ¿Â¼½á¹¹£¬ÀıÈç£º
+Module\MediaInfo.dll # ºº»¯°æ
+Skins\YouTube_TitleBar_Slim_ha2.dsf # Æ¤·ô
+PotIcons.dll # ×Ô¶¨ÒåÍ¼±ê
+PotPlayerMini.ini # ±ãĞ¯°æÅäÖÃÎÄ¼ş
+......
 
-æ³¨æ„è„šæœ¬è·¯å¾„é‡Œé¢ä¸è¦æœ‰ç©ºæ ¼,ç›®å‰åªæ”¯æŒ32ä½ç‰ˆï¼Œ64ä½çš„è‡ªå·±æ”¹è„šæœ¬å§ã€‚
 
-Win7_32bit æµ‹è¯•é€šè¿‡ï¼Œç”±äºä¸ªåˆ«ç³»ç»ŸåŸå› ï¼Œå¦‚æƒé™ç­‰ï¼Œæœ‰å¯èƒ½å¯¼è‡´è„šæœ¬æ— æ³•è¿è¡Œã€‚
+Í¬Ê±Ö§³ÖDev/Public£¬ÇĞ»»·½·¨:
+¼ÇÊÂ±¾´ò¿ª My_PotPlayer.bat ĞŞ¸Ä set SOURCE=Dev »òÕß set SOURCE=Public ºó±£´æ¡£
+
+
+Ë«»÷ÔËĞĞ My_PotPlayer.bat
+
+½Å±¾½áÊøºó£¬Ä¿Â¼ÏÂ My_PotPlayer_xxx_1.x.xxxxx.0 ¾ÍÊÇ±ãĞ¯°æ¡£
+
+×¢Òâ½Å±¾ËùÔÚÂ·¾¶ÀïÃæ²»ÒªÓĞ¿Õ¸ñ¡£
+Ä¿Ç°Ö»Ö§³Ö32Î»°æ£¬64Î»µÄ×Ô¼º¸Ä½Å±¾ÀïÃæµÄÏÂÔØµØÖ·°É¡£
+
+Win7_32bit ²âÊÔÍ¨¹ı£¬ÓÉÓÚ¸ö±ğÏµÍ³Ô­Òò£¬ÈçÈ¨ÏŞµÈ£¬ÓĞ¿ÉÄÜµ¼ÖÂ½Å±¾ÎŞ·¨ÔËĞĞ¡£
 
 
